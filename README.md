@@ -7,4 +7,3 @@ Berikut daftar list framework Cegeh Ngoding :)
 - Users
 - Datatable
 - Sweetalert2
-- Boostrap 5 + Core UI 5
